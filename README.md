@@ -14,9 +14,9 @@ or
 
 ### [+] Features :
 
-Installing Youtube video enhancer, 
+* Installing Youtube video enhancer, 
 
-Uninstalling Youtube video enhancer
+* Uninstalling Youtube video enhancer
 
 ### Note:-
 
