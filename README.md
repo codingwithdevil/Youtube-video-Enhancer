@@ -14,13 +14,13 @@ or
 
 ### [+] Features :
 
-#####* Installing Youtube video enhancer, 
+##### * Installing Youtube video enhancer, 
 
-#####* Uninstalling Youtube video enhancer
+##### * Uninstalling Youtube video enhancer
 
 ### Note:-
 
-*<mark>This is tool is only for education purpose only,I'm not responsible for any illegal use of this tool</mark>*
+***This is tool is only for education purpose only,I'm not responsible for any illegal use of this tool***
 
 ### [+] Usage
 ***First run the setup and install YTE [Youtube video enhancer] ,After Installation finished simply run "YTE" in terminal.
