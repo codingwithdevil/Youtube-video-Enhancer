@@ -1,17 +1,25 @@
 # Youtube-video-Enhancer
 Increase Youtube Video Views
 ### [+] Installation :
+
 ```apt-get install python python-pip ```
+
 ```pip install -r requiremensts.txt```
+
 ```chmod 777 setup.py```
+
 ```sudo python setup.py```
 or
 ```./setup.py```
+
 ### [+] Features :
-installing Youtube video enhancer
-uninstalling Youtube video enhancer
+
+Installing Youtube video enhancer, 
+
+Uninstalling Youtube video enhancer
 
 ### Note:-
+
 *This is tool is only for education purpose only,I'm not responsible for any illegal use of this tool*
 
 ### [+] Usage
